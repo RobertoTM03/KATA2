@@ -1,3 +1,5 @@
+package es.ulpgc.dis;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
